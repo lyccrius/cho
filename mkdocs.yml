@@ -60,3 +60,25 @@ nav:
   - 首页:
     - index.md
     - 书单: list.md
+  - 原子结构:
+    - atomic-structure/index.md
+  - 分子结构:
+    - molecular-structure/index.md
+  - 晶体结构:
+    - crystal-structure/index.md
+  - 化学热力学:
+    - chemical-thermodynamics/index.md
+  - 化学动力学:
+    - chemical-kinetics/index.md
+  - 酸碱理论:
+    - acid-base-theory/index.md
+  - 电化学:
+    - electrochemistry/index.md
+  - 配位化学:
+    - coordination-chemistry/index.md
+  - 无机化学:
+    - inorganic-chemistry/index.md
+  - 有机化学:
+    - organic-chemistry/index.md
+  - 分析化学:
+    - analytical-chemistry/index.md
